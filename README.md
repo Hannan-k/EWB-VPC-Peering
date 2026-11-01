@@ -1,6 +1,5 @@
 # AWS VPC Peering — EWB Lab
 
-> **Project status:** Core connectivity was demonstrated in the supplied terminal evidence.
 
 
 ## Overview
